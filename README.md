@@ -1,9 +1,9 @@
-# Pet
+# Course-page
 
-<img src="./ASSENTS/1.png" alt="print">
-<img src="./ASSENTS/2.png" alt="print-cell">
+<img src="./image/1.png" alt="print">
+<img src="./image/2.png" alt="print-cell">
 
-> Resultado do Projeto Pet.
+> Resultado do Projeto Course-page.
 
 
 
@@ -32,4 +32,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-[⬆ Voltar ao topo](#pet)<br>
+[⬆ Voltar ao topo](#course-page)<br>
